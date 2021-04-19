@@ -3,7 +3,7 @@ body{
 }
 .contenedor{
     width: 600px;
-    height: 750px;
+    height: 760px;
     background-color: #FF9500;
     font-family: "Open Sans", sans-serif;
     margin: 0 auto;
@@ -46,4 +46,7 @@ li{
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
+}
+button{
+    margin-left: 15px;
 }
